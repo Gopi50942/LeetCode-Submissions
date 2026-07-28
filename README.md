@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
 | [0704-binary-search](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0704-binary-search) |
 ## Matrix
@@ -20,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
