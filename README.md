@@ -21,9 +21,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0004-median-of-two-sorted-arrays) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
