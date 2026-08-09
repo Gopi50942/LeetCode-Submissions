@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Binary Search
 |  |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 ## Dynamic Programming
 |  |
 | ------- |
