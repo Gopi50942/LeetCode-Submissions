@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
 | [0704-binary-search](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0074-search-a-2d-matrix) |
+| [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 ## Math
 |  |
 | ------- |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
