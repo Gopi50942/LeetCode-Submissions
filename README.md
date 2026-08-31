@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
 | [2469-convert-the-temperature](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Divide and Conquer
@@ -104,4 +105,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
