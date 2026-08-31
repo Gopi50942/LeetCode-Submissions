@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Simulation
 |  |
 | ------- |
@@ -127,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Sliding Window
+|  |
+| ------- |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
