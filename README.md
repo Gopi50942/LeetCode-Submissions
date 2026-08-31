@@ -80,13 +80,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+| [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
