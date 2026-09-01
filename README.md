@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
 ## Depth-First Search
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 ## Union-Find
 |  |
 | ------- |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -121,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## Enumeration
 |  |
