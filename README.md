@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0414-third-maximum-number](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0414-third-maximum-number) |
+| [0477-total-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0477-total-hamming-distance) |
 | [0704-binary-search](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0994-rotting-oranges](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0994-rotting-oranges) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0263-ugly-number](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0412-fizz-buzz) |
+| [0477-total-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0477-total-hamming-distance) |
 | [0509-fibonacci-number](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
@@ -180,4 +182,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0477-total-hamming-distance) |
 <!---LeetCode Topics End-->
