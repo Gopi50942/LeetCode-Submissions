@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1389-create-target-array-in-the-given-order](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1389-create-target-array-in-the-given-order) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/1952-three-divisors) |
 | [2469-convert-the-temperature](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/2469-convert-the-temperature) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
