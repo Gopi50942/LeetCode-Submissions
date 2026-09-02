@@ -176,4 +176,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0073-set-matrix-zeroes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0461-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0461-hamming-distance) |
 <!---LeetCode Topics End-->
