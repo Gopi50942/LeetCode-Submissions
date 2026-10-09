@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 ## Union-Find
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0543-diameter-of-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0617-merge-two-binary-trees) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
@@ -176,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0700-search-in-a-binary-search-tree) |
 ## DP on Trees
 |  |
@@ -198,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0461-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0461-hamming-distance) |
 | [0477-total-hamming-distance](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0477-total-hamming-distance) |
+## Binary Lifting
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Gopi50942/LeetCode-Submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
